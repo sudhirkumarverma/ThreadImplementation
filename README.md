@@ -1,2 +1,4 @@
 # ThreadImplementation
-Two Implementations of Thread ( Posix Based and the std::threads)
+This small project basically covering the thread class impementation using pthread library for linux and the std::thread functionality.
+
+
